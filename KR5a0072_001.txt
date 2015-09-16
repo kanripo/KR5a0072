@@ -1,22 +1,21 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-28 23:35:37.734182
+# -*- mode: mandoku-view -*-
 #+TITLE: 元始天尊濟度血湖真經
-#+PROPERTY: DZID  DZ0072
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，2—36 三卷 洞真部本文類
+#+DATE: 2015-08-28 23:35:38
+#+PROPERTY:  LASTPB <PB KR5a0072_SJB_003-020039c>
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
-#+PROPERTY: LASTPB <pb:KR5a0072_SJB_001-020038a>
+#+PROPERTY: WITNESS ZTDZ
+#+PROPERTY: LASTPB  <md:KR5a0072_HFL_000-005b>
 #+PROPERTY: JUAN 1
-#+PROPERTY: ID KR5a0072
-<pb:KR5a0072_HFL_001-001a>¶
-元始天尊濟度血湖真經卷上¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-¶
-<pb:KR5a0072_HFL_001-001b>¶
+<md:KR5a0072_HFL_001-001a>¶<pb:KR5a0072_SJB_001-020038b>
+元始天尊濟度血湖真經卷上¶¶¶¶¶¶¶¶¶¶<md:KR5a0072_HFL_001-001b>¶
+
+
+
+
+
+
+
+
+
+
+
