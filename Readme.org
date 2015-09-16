@@ -1,11 +1,3 @@
-#+TITLE: 元始天尊濟度血湖真經 / HFL
+#+TITLE: Data branch for _data
 
-#+DATE: 2015-08-28 23:35:37.781624
-* 版本
- |       HFL|【正統道藏・涵芬樓版】|
- |      ZTDZ|【正統道藏・三家本】|
-目次
- - [[file:KR5a0072_000.txt][元始天尊濟度血湖真經 0]]
- - [[file:KR5a0072_001.txt][元始天尊濟度血湖真經 1]]
- - [[file:KR5a0072_002.txt][元始天尊濟度血湖真經 2]]
- - [[file:KR5a0072_003.txt][元始天尊濟度血湖真經 3]]
+This branch contains data files that are used by the system.  The folder =imglist= has a list of digital facsimile pages for each file of the text.  This information is used to display text and image side-by-side.
